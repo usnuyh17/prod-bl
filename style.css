@@ -75,3 +75,9 @@ button:hover {
   font-size: 1.5rem;
   font-weight: bold;
 }
+
+#disqus_thread {
+  width: 100%;
+  max-width: 800px; /* Adjust as needed for desired width */
+  margin-top: 2rem; /* Add some space above the comments */
+}
